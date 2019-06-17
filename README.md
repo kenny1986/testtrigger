@@ -1,2 +1,3 @@
 # testtrigger
 yes
+no
